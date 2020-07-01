@@ -39,9 +39,9 @@ section{
 }
 .fb-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, orange, tomato);
+    background-image: linear-gradient(45deg, lightblue, royalblue);
     color: whitesmoke;
-    padding: 10px 40px;
+    padding: 10px 20px;
     border-radius: 5px;
 }
 .name-highlight-2{
